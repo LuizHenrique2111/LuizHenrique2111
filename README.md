@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Luiz Henrique
 - 🌎 I'm from Brazil
 - 👀 I’m interested in full-stack programation
-- 🌱 I’m currently learning Java, JavaScript and Golang
+- 🌱 I’m currently learning Java, Kotlin and Golang
 - 💞️ I’m looking to collaborate on the developer community
 - 📫 How to reach me ...
 
